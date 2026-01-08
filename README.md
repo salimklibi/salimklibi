@@ -1,5 +1,9 @@
 ## Hi there, I'm Salim! 👋
 
+
+<!--
+**salimklibi/salimklibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I am a passionate Software Developer & decision analyst living in France. I love turning raw data into actionable insights.
 
 
@@ -25,9 +29,5 @@ GitHub Profile Trophy
 
 📩 Contactez-moi
 LinkedInGmailTwitter
-<!--
-**salimklibi/salimklibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 -->
