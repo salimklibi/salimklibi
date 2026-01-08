@@ -10,7 +10,6 @@ Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 ![Repos](https://img.shields.io/badge/Repos-10%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-%E2%9C%A8-green?style=for-the-badge&logo=github&logoColor=white)
 
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salimklibi&theme=radical)](https://github.com/vn7n24f4kqg0/github-profile-summary-cards)
 
 ## 🛠️ Tech Stack & Tools
 
