@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Salim!
 
-**PhD Candidate** in Decision analysis & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
+**PhD student** in Decision analysis & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
 Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 ## 📊 GitHub Stats
