@@ -8,7 +8,7 @@ Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 ## 📊 GitHub Stats
 
 [![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salimklibi)](https://github.com/salimklibi/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=salimklibi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=salimklibi)](https://git.io/streak-stats)
 
 
 ## 🛠️ Tech Stack & Tools
