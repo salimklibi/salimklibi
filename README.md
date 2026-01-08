@@ -2,13 +2,17 @@
 
 # 👋 Hi there, I'm Salim!
 
-**PhD Candidate** in Decision Science & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
+**PhD Candidate** in Decision analysis & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
 Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 ## 📊 GitHub Stats
 
 ![Repos](https://img.shields.io/badge/Repos-10%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-%E2%9C%A8-green?style=for-the-badge&logo=github&logoColor=white)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=salimklibi&theme=github-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Trophy](https://github-profile-trophy-sigma.vercel.app/?username=salimklibi)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 🛠️ Tech Stack & Tools
