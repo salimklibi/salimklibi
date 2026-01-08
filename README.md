@@ -15,10 +15,8 @@ Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=salimklibi&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=salimklibi&theme=radical)
-
-
-
+[![Streak](https://streak-salimklibi.vercel.app/?user=salimklibi&theme=radical)]
+[![Trophy](https://trophy-salimklibi.vercel.app/?username=salimklibi&theme=radical&column=7)]
 
 ## 🛠️ Tech Stack & Tools
 
