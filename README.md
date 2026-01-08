@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Salim!
 
 PhD Candidate in Decision Science & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
-Decision Analyst | Python Developer | MCDA annd Energy Transition Researcher.
+Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 ![Your Profile Stats](https://github-profile-stats.vercel.app/api?username=salimklibi&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=salimklibi&layout=compact&theme=radical)
@@ -23,9 +23,9 @@ Decision Analyst | Python Developer | MCDA annd Energy Transition Researcher.
 
 ## 🔥 Featured Projects
 
-[![MCDA Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=mcda-toolkit&theme=radical)](https://github.com/YOUR_USERNAME/mcda-toolkit)
-[![Hydrogen Modeling](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=hydrogen-models&theme=radical)](https://github.com/YOUR_USERNAME/hydrogen-models)
-[![Territorial Assessment](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=territorial-assessment&theme=radical)](https://github.com/YOUR_USERNAME/territorial-assessment)
+[![MCDA Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=salimklibi&repo=mcda-toolkit&theme=radical)](https://github.com/salimklibi/mcda-toolkit)
+[![Hydrogen Modeling](https://github-readme-stats.vercel.app/api/pin/?username=salimklibi&repo=hydrogen-models&theme=radical)](https://github.com/salimklibi/hydrogen-models)
+[![Territorial Assessment](https://github-readme-stats.vercel.app/api/pin/?username=salimklibi&repo=territorial-assessment&theme=radical)](https://github.com/salimklibi/territorial-assessment)
 
 ## 📫 Let's Connect!
 
