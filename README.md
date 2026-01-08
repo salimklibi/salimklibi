@@ -23,8 +23,8 @@ Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 ## 🔥 Featured Projects
 
-[![MCDA](https://github-readme-stats.vercel.app/api/pin/?username=salim&repo=mcda-toolkit&theme=radical)]([https://github.com/salim/mcda-toolkit](https://github.com/salimklibi/MCDA_Hydrogen))
-[![Territorial Assessment](https://github-readme-stats.vercel.app/api/pin/?username=salim&repo=territorial-assessment&theme=radical)](https://github.com/salimklibi/H2_energy_territory_evaluation)
+[![MCDA Hydrogen](https://img.shields.io/badge/MCDA_Hydrogen-saw%20method%20%26%20vendée-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimklibi/MCDA_Hydrogen)
+[![H2 Territory](https://img.shields.io/badge/H2_Territory-H100%20scenarios-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimklibi/H2_energy_territory_evaluation)
 
 ## 📫 Let's Connect!
 
