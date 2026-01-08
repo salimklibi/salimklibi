@@ -5,9 +5,8 @@
 PhD Candidate in Decision Science & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
 Decision Analyst | Python Developer | MCDA Expert | Energy Transition Researcher.
 
-![Profile Stats](https://github-profile-stats.vercel.app/api?username=salimklibi&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9EA5B3&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=salimklibi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
+![Profile Stats](https://github-profile-stats.vercel.app/api?username=salimklibi&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=salimklibi&layout=compact&theme=radical&hide_border=true)
 
 ## 🛠️ Tech Stack & Tools
 
