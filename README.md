@@ -6,7 +6,8 @@
 Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=salimklibi&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=salimklibi)](https://git.io/streak-stats)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=salimklibi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Tech Stack & Tools
