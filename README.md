@@ -23,8 +23,11 @@ Decision Analyst | Python Developer | MCDA & Energy Transition Researcher.
 
 ## 🔥 Featured Projects
 
-[![MCDA Hydrogen](https://img.shields.io/badge/MCDA_Hydrogen-saw%20method%20%26%20vendée-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimklibi/MCDA_Hydrogen)
-[![H2 Territory](https://img.shields.io/badge/H2_Territory-H100%20scenarios-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimklibi/H2_energy_territory_evaluation)
+[![MCDA Hydrogen](https://img.shields.io/badge/MCDA_Hydrogen-SAW%20method%20Vendée-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimklibi/MCDA_Hydrogen)
+[![Face Recognition](https://img.shields.io/badge/Face%20Recognition-Real--time%20webcam-blue?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/salimklibi/Real_time_face_recogniton_laptop_web_camera)
+[![2D/3D Viz](https://img.shields.io/badge/2D_3D_Objects-Matplotlib%20%26%20Plotly-orange?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/salimklibi/2D_3D_Objects_Visualisation)
+[![Flights Monitor](https://img.shields.io/badge/Flights--monitoring-Data%20viz-purple?style=for-the-badge&logo=python&logoColor=white)](https://github.com/salimklibi/Flights-monitoring)
+[![PDF Summarizer](https://img.shields.io/badge/PDF_Summarizer-AI%20extraction-red?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/salimklibi/pdf_summarizer)
 
 ## 📫 Let's Connect!
 
