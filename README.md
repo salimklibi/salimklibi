@@ -5,28 +5,12 @@
 I'm a **PhD student** in Decision analysis & Hydrogen Energy Systems @ University of Paris-Dauphine (CNAM).  
 Decision Analyst | Python Developer | MCDA & Hydrogen Energy Transition Researcher.
 
+[![Visitors](https://komarev.com/ghpvc/?username=salimklibi&abbreviated=true)](https://github.com/salimklibi)
+
 ## 📊 GitHub Stats
 
 ![Repos](https://img.shields.io/badge/Repos-15%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-%E2%9C%A8-green?style=for-the-badge&logo=github&logoColor=white)
-
-[![salimklibi Visitors](https://komarev.com/ghpvc/?username=salimklibi&label=Profile%20Views&color=teal&style=flat-square)](https://github.com/salimklibi)
-
-[![Visitors](https://komarev.com/ghpvc/?username=salimklibi&label=VISITORS&color=teal&style=flat-square)](https://github.com/salimklibi)
-
-[![Visitors](https://komarev.com/ghpvc/?username=salimklibi)](https://github.com/salimklibi)
-
-
-# Dark mode pro
-[![Visitors](https://komarev.com/ghpvc/?username=salimklibi&label=VISITORS&color=0e75b6&style=flat-square&bgcolor=181717)](https://github.com/salimklibi)
-
-# Avec base (si migration)
-[![Visitors](https://komarev.com/ghpvc/?username=salimklibi&base=1500&label=VISITORS)](https://github.com/salimklibi)
-
-# Abbrévié K/M
-[![Visitors](https://komarev.com/ghpvc/?username=salimklibi&abbreviated=true)](https://github.com/salimklibi)
-
-
 
 ## 🛠️ Tech Stack & Tools
 
