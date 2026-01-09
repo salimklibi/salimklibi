@@ -7,7 +7,7 @@ Decision Analyst | Python Developer | MCDA & Hydrogen Energy Transition Research
 
 ## 📊 GitHub Stats
 
-![Repos](https://img.shields.io/badge/Repos-10%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-15%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-%E2%9C%A8-green?style=for-the-badge&logo=github&logoColor=white)
 
 
