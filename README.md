@@ -12,11 +12,6 @@ Decision Analyst | Python Developer | MCDA & Hydrogen Energy Transition Research
 ![Repos](https://img.shields.io/badge/Repos-15%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-%E2%9C%A8-green?style=for-the-badge&logo=github&logoColor=white)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=salimklibi)](https://github.com/salimklibi)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salimklibi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimklibi)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
